@@ -1,0 +1,21 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Trusted Travel Agency website that helps you to book your trip and get the best experience ever with the best prices and the best services",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "pugjs",
+    "JavaScript"
+  ],
+  "author": "Youssef Yosury",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
